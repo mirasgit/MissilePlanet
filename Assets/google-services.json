@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42660147517",
+    "project_id": "missileplanet",
+    "storage_bucket": "missileplanet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42660147517:android:147d74aae2f448073d5554",
+        "android_client_info": {
+          "package_name": "com.ccassander.missileplanet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn55dwPIr7oglgrSST8K7QdGrTRAiL7gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
